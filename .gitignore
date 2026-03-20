@@ -19,3 +19,8 @@ desktop.ini
 # Build artifacts
 dist/
 build/
+
+# Standard entries
+.claude/
+__pycache__/
+*.pid
